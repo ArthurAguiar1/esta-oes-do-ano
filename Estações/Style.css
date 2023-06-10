@@ -1,0 +1,41 @@
+table
+{
+    width: 600px;
+    height: 300px ;
+    text-align: center;
+    font-family: Verdana;
+}
+
+img
+{
+    width: 200px;
+}
+
+td
+{
+ border: 3px solid;
+ border-color: red;
+ border-radius: 3%;
+}
+
+#viradinho
+{
+-webkit-transform: rotate(-90deg);
+}
+
+.verde
+{
+    border-color: green;
+}
+.Amarelo
+{
+    border-color: yellow;
+}
+.marrom
+{
+    border-color: maroon;
+}
+.azul
+{
+    border-color: blue;
+}
